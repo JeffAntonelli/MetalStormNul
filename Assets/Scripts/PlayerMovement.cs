@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
 {
     
     private enum State
