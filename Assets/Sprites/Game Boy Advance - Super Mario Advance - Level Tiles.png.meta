@@ -1,0 +1,2674 @@
+fileFormatVersion: 2
+guid: c254e402c3f103f4da8d3cea1cdc3170
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5340234362831370253
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_0
+  - first:
+      213: 6155351606302501600
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_1
+  - first:
+      213: -8828844541793329367
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_2
+  - first:
+      213: -371269257658275738
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_3
+  - first:
+      213: 458972370750934519
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_4
+  - first:
+      213: -863711193607755956
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_5
+  - first:
+      213: 7540123327686876662
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_6
+  - first:
+      213: 635558114694625048
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_7
+  - first:
+      213: -3388417261198604895
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_8
+  - first:
+      213: -6946892466058730831
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_9
+  - first:
+      213: 4170213987225538126
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_10
+  - first:
+      213: -8016096975660341084
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_11
+  - first:
+      213: -7923602539237167145
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_12
+  - first:
+      213: -5619664999535680285
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_13
+  - first:
+      213: -8893840280999777738
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_14
+  - first:
+      213: 3994300681424873834
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_15
+  - first:
+      213: -4487628380473832005
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_16
+  - first:
+      213: -8113841494289891991
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_17
+  - first:
+      213: -6183904242038327450
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_18
+  - first:
+      213: -2745903480875066646
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_19
+  - first:
+      213: 6239665470439743578
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_20
+  - first:
+      213: -1612148188379348585
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_21
+  - first:
+      213: -8393774039264836046
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_22
+  - first:
+      213: 8379616486066460397
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_23
+  - first:
+      213: 8354158119109204921
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_24
+  - first:
+      213: -8153675301460171451
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_25
+  - first:
+      213: -4471833504027508534
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_26
+  - first:
+      213: 5728606154434971385
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_27
+  - first:
+      213: -4667042737377463301
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_28
+  - first:
+      213: 5854412364591006258
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_29
+  - first:
+      213: -6722877411417567840
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_30
+  - first:
+      213: -3233009298026524830
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_31
+  - first:
+      213: 774740326797056045
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_32
+  - first:
+      213: -6387700138772790553
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_33
+  - first:
+      213: -2922804346726561885
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_34
+  - first:
+      213: 4400429933870739809
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_35
+  - first:
+      213: -2114816737870312914
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_36
+  - first:
+      213: -9151011868584975717
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_37
+  - first:
+      213: -7507535953978590056
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_38
+  - first:
+      213: 3762546493202655872
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_39
+  - first:
+      213: 4255030950142772795
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_40
+  - first:
+      213: 5456183034162004456
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_41
+  - first:
+      213: 7768353790826936167
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_42
+  - first:
+      213: -5501638970100475195
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_43
+  - first:
+      213: -2595938594477469902
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_44
+  - first:
+      213: 9215314010932822263
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_45
+  - first:
+      213: 3476619671909174857
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_46
+  - first:
+      213: -5337916027216467785
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_47
+  - first:
+      213: -7238425505242236742
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_48
+  - first:
+      213: -2335194292108115029
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_49
+  - first:
+      213: -1734807014490770975
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_50
+  - first:
+      213: -666325347554961678
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_51
+  - first:
+      213: -3138177072840227684
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_52
+  - first:
+      213: 2068363054157060743
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_53
+  - first:
+      213: 4892509767873835119
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_54
+  - first:
+      213: -4779403642618028697
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_55
+  - first:
+      213: 1706649007894982700
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_56
+  - first:
+      213: 1812798614153141862
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_57
+  - first:
+      213: 266093519042546404
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_58
+  - first:
+      213: 117608894895767016
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_59
+  - first:
+      213: 4046849624895813742
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_60
+  - first:
+      213: 1204352593223164081
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_61
+  - first:
+      213: 8182554345537460044
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_62
+  - first:
+      213: 134002946543814455
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_63
+  - first:
+      213: -8205543647273117976
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_64
+  - first:
+      213: -506024533879701976
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_65
+  - first:
+      213: -5844500793135963861
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_66
+  - first:
+      213: 1715074771371581145
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_67
+  - first:
+      213: 2468639108103066677
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_68
+  - first:
+      213: -1372152099041494566
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_69
+  - first:
+      213: -1417430883388625850
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_70
+  - first:
+      213: 9004837114668919470
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_71
+  - first:
+      213: -6517004906495154228
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_72
+  - first:
+      213: 6525861275885340533
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_73
+  - first:
+      213: -5628066103227111551
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_74
+  - first:
+      213: 6541983428961631443
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_75
+  - first:
+      213: -4550577958471147868
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_76
+  - first:
+      213: 6025717239060223595
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_77
+  - first:
+      213: 3063144052004262898
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_78
+  - first:
+      213: 2768498024664855714
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_79
+  - first:
+      213: -262473613054128792
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_80
+  - first:
+      213: 6096894049970010443
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_81
+  - first:
+      213: -642317853436464792
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_82
+  - first:
+      213: 4713265214389828103
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_83
+  - first:
+      213: 6073881268261568094
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_84
+  - first:
+      213: 7887739535481017297
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_85
+  - first:
+      213: -2378525556430717917
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_86
+  - first:
+      213: 4044371687170844674
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_87
+  - first:
+      213: -4609924505336128646
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_88
+  - first:
+      213: -1372570919238326821
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_89
+  - first:
+      213: -6417840992382732575
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_90
+  - first:
+      213: 6090082585372760334
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_91
+  - first:
+      213: -4748166496503070581
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_92
+  - first:
+      213: -4210345775332609437
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_93
+  - first:
+      213: 7695943941334882835
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_94
+  - first:
+      213: 5894182065849748154
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_95
+  - first:
+      213: -4648073559872848099
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_96
+  - first:
+      213: 6576855918624311492
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_97
+  - first:
+      213: -9070383819998814933
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_98
+  - first:
+      213: 4866958000746674282
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_99
+  - first:
+      213: 3423767176675419945
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_100
+  - first:
+      213: 2881185129509960523
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_101
+  - first:
+      213: 8261551245968412135
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_102
+  - first:
+      213: 8634727949322310404
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_103
+  - first:
+      213: -527091417308989799
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_104
+  - first:
+      213: -6762152915084120544
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_105
+  - first:
+      213: -252861428259395784
+    second: Game Boy Advance - Super Mario Advance - Level Tiles_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f70a1a042da3e5b0800000000000000
+      internalID: -5340234362831370253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea6a496ca33c6550800000000000000
+      internalID: 6155351606302501600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f134d9aa4a97580800000000000000
+      internalID: -8828844541793329367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6686145c39cf8daf0800000000000000
+      internalID: -371269257658275738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 206
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd045080f89e5600800000000000000
+      internalID: 458972370750934519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c472b7cde3b7304f0800000000000000
+      internalID: -863711193607755956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd996d9736e3a860800000000000000
+      internalID: 7540123327686876662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177d7cecb4f1d800800000000000000
+      internalID: 635558114694625048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5847b147ce9f0d0800000000000000
+      internalID: -3388417261198604895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26bbbbb1ea79f90800000000000000
+      internalID: -6946892466058730831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e81f1d6839fd930800000000000000
+      internalID: 4170213987225538126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8aea0954a11c090800000000000000
+      internalID: -8016096975660341084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa26bb875b90290800000000000000
+      internalID: -7923602539237167145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4eaf90570f202b0800000000000000
+      internalID: -5619664999535680285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa2f1d26bb29480800000000000000
+      internalID: -8893840280999777738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a692e6a9e4b9e6730800000000000000
+      internalID: 3994300681424873834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd45e1b3cdb8b1c0800000000000000
+      internalID: -4487628380473832005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96db6016628d56f80800000000000000
+      internalID: -8113841494289891991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66736480bdb5e2aa0800000000000000
+      internalID: -6183904242038327450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeadee2255794e9d0800000000000000
+      internalID: -2745903480875066646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e4daafaeb79650800000000000000
+      internalID: 6239665470439743578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910c52a3cf70a9e0800000000000000
+      internalID: -1612148188379348585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23649b0cbf2538b80800000000000000
+      internalID: -8393774039264836046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de69ff50cc06a4470800000000000000
+      internalID: 8379616486066460397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb13fe0c8eefe370800000000000000
+      internalID: 8354158119109204921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545279a638358de80800000000000000
+      internalID: -8153675301460171451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac000c1fe1bd0f1c0800000000000000
+      internalID: -4471833504027508534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6863d22f8108f40800000000000000
+      internalID: 5728606154434971385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3bc0f7b555b3fb0800000000000000
+      internalID: -4667042737377463301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2320a10170d0f3150800000000000000
+      internalID: 5854412364591006258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad45f71d9a83b2a0800000000000000
+      internalID: -6722877411417567840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f08933c2b0223d0800000000000000
+      internalID: -3233009298026524830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2898e3f83e60ca00800000000000000
+      internalID: 774740326797056045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e20cb831945a57a0800000000000000
+      internalID: -6387700138772790553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7456daeec1077d0800000000000000
+      internalID: -2922804346726561885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617c5bd5b7711d30800000000000000
+      internalID: 4400429933870739809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8036b169a6a2e0800000000000000
+      internalID: -2114816737870312914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92eb9d8033110180800000000000000
+      internalID: -9151011868584975717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf1a493dfdfc790800000000000000
+      internalID: -7507535953978590056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6c3ac910473430800000000000000
+      internalID: 3762546493202655872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368d83ea18ec0b30800000000000000
+      internalID: 4255030950142772795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e14dbcbf8148bb40800000000000000
+      internalID: 5456183034162004456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677ccf3d9cbecb60800000000000000
+      internalID: 7768353790826936167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca17b0718046a3b0800000000000000
+      internalID: -5501638970100475195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f81792a9f59fbd0800000000000000
+      internalID: -2595938594477469902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c453a44f53ef70800000000000000
+      internalID: 9215314010932822263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e0843fb2f6f3030800000000000000
+      internalID: 3476619671909174857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e5ec97a9ebe5b0800000000000000
+      internalID: -5337916027216467785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8b8e29a52fb8b90800000000000000
+      internalID: -7238425505242236742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba34069e929b79fd0800000000000000
+      internalID: -2335194292108115029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1fb63363abce7e0800000000000000
+      internalID: -1734807014490770975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6d52270acb0c6f0800000000000000
+      internalID: -666325347554961678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94451b3494f274d0800000000000000
+      internalID: -3138177072840227684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad2953d3d44bc10800000000000000
+      internalID: 2068363054157060743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60bf3656bfa5e340800000000000000
+      internalID: 4892509767873835119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d5b8b95b52cadb0800000000000000
+      internalID: -4779403642618028697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207adffa3c3fa710800000000000000
+      internalID: 1706649007894982700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e1be52cba582910800000000000000
+      internalID: 1812798614153141862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea809f45aa51b300800000000000000
+      internalID: 266093519042546404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed30b2baa4d1a100800000000000000
+      internalID: 117608894895767016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68765fea4c492830800000000000000
+      internalID: 4046849624895813742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b023677d48b6b010800000000000000
+      internalID: 1204352593223164081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d61103d54e8170800000000000000
+      internalID: 8182554345537460044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737899b48f21cd100800000000000000
+      internalID: 134002946543814455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e69253178d002e80800000000000000
+      internalID: -8205543647273117976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb7721e5d3af8f0800000000000000
+      internalID: -506024533879701976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2164af7e7924eea0800000000000000
+      internalID: -5844500793135963861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de56deea6b2dc710800000000000000
+      internalID: 1715074771371581145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534de1d703e524220800000000000000
+      internalID: 2468639108103066677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad933d69fe225fce0800000000000000
+      internalID: -1372152099041494566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce3f51f16445ce0800000000000000
+      internalID: -1417430883388625850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa281865ab97fc70800000000000000
+      internalID: 9004837114668919470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7e0ece092fe85a0800000000000000
+      internalID: -6517004906495154228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5778f924144809a50800000000000000
+      internalID: 6525861275885340533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1872bb8a2b715e1b0800000000000000
+      internalID: -5628066103227111551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcffb9844bc9ca50800000000000000
+      internalID: 6541983428961631443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeda9ee47919d0c0800000000000000
+      internalID: -4550577958471147868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d12f37e5af9350800000000000000
+      internalID: 6025717239060223595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3909b3949728a20800000000000000
+      internalID: 3063144052004262898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f489094eab6620800000000000000
+      internalID: 2768498024664855714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 54
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dcefab3a18b5cf0800000000000000
+      internalID: -262473613054128792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b7a1f5d48c9450800000000000000
+      internalID: 6096894049970010443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8613701c0570617f0800000000000000
+      internalID: -642317853436464792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a39e39db1e86140800000000000000
+      internalID: 4713265214389828103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e31aa25d2ca4450800000000000000
+      internalID: 6073881268261568094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d396250151e67d60800000000000000
+      internalID: 7887739535481017297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c32cfbb97cdfed0800000000000000
+      internalID: -2378525556430717917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20827791f9e702830800000000000000
+      internalID: 4044371687170844674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b521a36124600c0800000000000000
+      internalID: -4609924505336128646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a4c96506a3fce0800000000000000
+      internalID: -1372570919238326821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63610ee9f3fe6a0800000000000000
+      internalID: -6417840992382732575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e099fe148d1548450800000000000000
+      internalID: 6090082585372760334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8006817abf1b1eb0800000000000000
+      internalID: -4748166496503070581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362bbbf13d8d195c0800000000000000
+      internalID: -4210345775332609437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ad5926d3c7dca60800000000000000
+      internalID: 7695943941334882835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac3743c575cc150800000000000000
+      internalID: 5894182065849748154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb4ed49b9be7fb0800000000000000
+      internalID: -4648073559872848099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c80780cc9fa54b50800000000000000
+      internalID: 6576855918624311492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d158009f58f1280800000000000000
+      internalID: -9070383819998814933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683043f388ea8340800000000000000
+      internalID: 4866958000746674282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92761677b1aa38f20800000000000000
+      internalID: 3423767176675419945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b34903c960cf720800000000000000
+      internalID: 2881185129509960523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed02ad261de6a270800000000000000
+      internalID: 8261551245968412135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4035e773257b4d770800000000000000
+      internalID: 8634727949322310404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f32b06256fa8f0800000000000000
+      internalID: -527091417308989799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee98b40c10822a0800000000000000
+      internalID: -6762152915084120544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Super Mario Advance - Level Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376337eed7ad7cf0800000000000000
+      internalID: -252861428259395784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
