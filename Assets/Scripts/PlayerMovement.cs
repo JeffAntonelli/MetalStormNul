@@ -20,16 +20,20 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Rigidbody2D body;
     [SerializeField] private PlayerFoot foot;
-    
+
+    private bool _isJumping = false;
     private bool _facingRight = true;
     private bool _jumpButtonDown = false;
+    private bool _jumpButton = false;
+    private bool _jumpButtonUp = false;
 
+    private float _jumpTimeCounter;
+    private const float JumpTime = 0.5f;
     private const float DeadZone = 0.1f;
     private const float MoveSpeed = 4.0f;
-    private const float JumpSpeed = 7.0f;
-    private const float BumpForce = 28.0f;
-    
-   void Start()
+    private const float JumpSpeed = 3.0f;
+
+    void Start()
        {
            ChangeState(State.Jump);
        }
@@ -40,6 +44,18 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
            {
                _jumpButtonDown = true;
            }
+
+           if (Input.GetButton("Jump"))
+           {
+               _jumpButton = true;
+           }
+
+           if (Input.GetButtonUp("Jump"))
+           {
+               _isJumping = false;
+           }
+           
+           
        }
    
        void FixedUpdate()
@@ -50,6 +66,18 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
                Jump();
            }
            _jumpButtonDown = false;
+
+           if (_jumpButton && _isJumping)
+           {
+               JumpVariation();
+           }
+           _jumpButton = false;
+           
+
+           /*if (_jumpButtonUp)
+           {
+               _isJumping = false;
+           }*/
    
            var vel = body.velocity;
            body.velocity = new Vector2(MoveSpeed * Input.GetAxis("Horizontal"), vel.y);
@@ -102,10 +130,22 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
    
        private void Jump()
        {
+           _isJumping = true;
+           _jumpTimeCounter = JumpTime;
            var vel = body.velocity;
            body.velocity = new Vector2(vel.x, JumpSpeed);
        }
-   
+
+       private void JumpVariation()
+       {
+           if (_jumpTimeCounter > 0)
+           {
+               var vel = body.velocity;
+               body.velocity = new Vector2(vel.x, JumpSpeed);
+               _jumpTimeCounter -= Time.deltaTime;
+           }
+       }
+
        void ChangeState(State state)
        {
            switch (state)
