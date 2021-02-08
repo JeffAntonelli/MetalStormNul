@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
+public class PlayerMovement : MonoBehaviour
 {
     
     private enum State
@@ -23,6 +23,7 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
     
     private bool _facingRight = true;
     private bool _jumpButtonDown = false;
+    private bool top; // Pour la rotation.
 
     private const float DeadZone = 0.1f;
     private const float MoveSpeed = 4.0f;
@@ -32,6 +33,7 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
    void Start()
        {
            ChangeState(State.Jump);
+           body = GetComponent<Rigidbody2D>();
        }
    
        private void Update()
@@ -39,6 +41,12 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
            if (Input.GetButtonDown("Jump"))
            {
                _jumpButtonDown = true;
+           }
+
+           if (Input.GetKeyDown(KeyCode.P)) // Pour la rotation 
+           {                                //
+               body.gravityScale *= -1;     //
+               Rotation();                  //
            }
        }
    
@@ -131,5 +139,18 @@ public class PlayerMovement : MonoBehaviour // Salut on test. bloup bloup
            spriteRenderer.flipX = !spriteRenderer.flipX;
            _facingRight = !_facingRight;
        }
-       
+
+       void Rotation()   // Pour la rotation.
+       {
+           if (top == false)
+           {
+            transform.eulerAngles = new Vector3(0, 0, 180f);
+           }
+           else
+           {
+               transform.eulerAngles = Vector3.zero;
+           }
+
+        top = !top;
+       }
 }
