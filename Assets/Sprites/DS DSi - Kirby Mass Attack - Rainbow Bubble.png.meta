@@ -1,0 +1,6262 @@
+fileFormatVersion: 2
+guid: 15e4acac527a7454e9a1400f29503bfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2311408067972585799
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_0
+  - first:
+      213: -7230977608726871643
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_0
+  - first:
+      213: 2875782301252166838
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_1
+  - first:
+      213: -5586966420663902043
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_2
+  - first:
+      213: -3870932583469734127
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_3
+  - first:
+      213: -4919828100235365787
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_4
+  - first:
+      213: -3101339113615929637
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_5
+  - first:
+      213: 8895361270291952192
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_6
+  - first:
+      213: 7055303313891242227
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_7
+  - first:
+      213: 2566142081480497220
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_8
+  - first:
+      213: 4543483721118787636
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_9
+  - first:
+      213: 2703507289760126028
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_10
+  - first:
+      213: -950566856245068024
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_11
+  - first:
+      213: -2957654504702756740
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_12
+  - first:
+      213: -1703885620000181983
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_13
+  - first:
+      213: 259520816128005797
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_14
+  - first:
+      213: 7880466085612864214
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_15
+  - first:
+      213: -7878267376479616002
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_16
+  - first:
+      213: 4348752547810213153
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_17
+  - first:
+      213: 5224918707717797158
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_18
+  - first:
+      213: -8084965698171110490
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_19
+  - first:
+      213: 320091258029634609
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_20
+  - first:
+      213: -2518815094044972388
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_21
+  - first:
+      213: -5303250134660591876
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_22
+  - first:
+      213: -5590778616581830596
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_23
+  - first:
+      213: -6422116559854359444
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_24
+  - first:
+      213: 2125703922028709556
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_25
+  - first:
+      213: 6430951491576164290
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_26
+  - first:
+      213: -467517911404243555
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_27
+  - first:
+      213: -477041298349681960
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_28
+  - first:
+      213: 6561803630925274200
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_29
+  - first:
+      213: -7882025313151858818
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_30
+  - first:
+      213: -305402004540580943
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_31
+  - first:
+      213: -3051057650778088401
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_32
+  - first:
+      213: 4853444257749763173
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_33
+  - first:
+      213: 8583954155803885126
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_34
+  - first:
+      213: 7090356644532564775
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_35
+  - first:
+      213: 2587694634859292837
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_36
+  - first:
+      213: 5630188150811661133
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_37
+  - first:
+      213: 3328343760971243819
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_38
+  - first:
+      213: -5844109546205303494
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_39
+  - first:
+      213: 3971392060995940869
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_40
+  - first:
+      213: -3419663247835936857
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_41
+  - first:
+      213: -7043941499334642945
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_42
+  - first:
+      213: -4667759011959464625
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_43
+  - first:
+      213: -5189423414306396834
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_44
+  - first:
+      213: -5271080412101238902
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_45
+  - first:
+      213: -9046486294200056988
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_46
+  - first:
+      213: -7347435933258846445
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_47
+  - first:
+      213: 388745984696806632
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_48
+  - first:
+      213: -8685367076550156444
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_49
+  - first:
+      213: 3479174102743472820
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_50
+  - first:
+      213: -7794025595680899288
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_51
+  - first:
+      213: -4147536837648480156
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_52
+  - first:
+      213: -5157747237698411558
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_53
+  - first:
+      213: 6605444702843348136
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_54
+  - first:
+      213: -9032868778907674169
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_55
+  - first:
+      213: 5478736193785260737
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_56
+  - first:
+      213: 2077248041456830356
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_57
+  - first:
+      213: -8214351211913368590
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_58
+  - first:
+      213: -9157938120523874535
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_59
+  - first:
+      213: 52351144304627149
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_60
+  - first:
+      213: -9052151807420262121
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_61
+  - first:
+      213: -700534407112449842
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_62
+  - first:
+      213: -1937275054332809112
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_63
+  - first:
+      213: -7015388503680871598
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_64
+  - first:
+      213: -5544017820842668631
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_65
+  - first:
+      213: 507661415898524289
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_66
+  - first:
+      213: 6879730117820612386
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_67
+  - first:
+      213: 536319377638703294
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_68
+  - first:
+      213: 2094655068501635702
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_69
+  - first:
+      213: -4397955305295383382
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_70
+  - first:
+      213: 6576306531239058384
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_71
+  - first:
+      213: -5471163702230294443
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_72
+  - first:
+      213: 216860028252460775
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_73
+  - first:
+      213: 2216669814987798399
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_74
+  - first:
+      213: 6125397265979459241
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_75
+  - first:
+      213: -804777132246033363
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_76
+  - first:
+      213: -6182643658251672506
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_77
+  - first:
+      213: 796940791317054090
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_78
+  - first:
+      213: 3028759408753524254
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_79
+  - first:
+      213: -7839313117414813263
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_80
+  - first:
+      213: 8685620346334630843
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_81
+  - first:
+      213: 5634093273482148913
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_82
+  - first:
+      213: -2061306486373617307
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_83
+  - first:
+      213: 6657839931355986722
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_84
+  - first:
+      213: 1597726955848308861
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_85
+  - first:
+      213: 6989611230033592555
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_86
+  - first:
+      213: 3907347681801978878
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_87
+  - first:
+      213: 3354827812659723229
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_88
+  - first:
+      213: 4725179435521600801
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_89
+  - first:
+      213: 6641049985058905445
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_90
+  - first:
+      213: 5505497485310093215
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_91
+  - first:
+      213: 7989182991694897359
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_92
+  - first:
+      213: -8675599428821277468
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_93
+  - first:
+      213: 4018168136557911682
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_94
+  - first:
+      213: 3731753968654796515
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_95
+  - first:
+      213: -1279022780495728148
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_96
+  - first:
+      213: -3971006974432475029
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_97
+  - first:
+      213: 5238384877829995819
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_98
+  - first:
+      213: 2745859246573350635
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_99
+  - first:
+      213: -3716535058929464417
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_100
+  - first:
+      213: 9195291870743982257
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_101
+  - first:
+      213: 3517781581412342085
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_102
+  - first:
+      213: -6348869575033729782
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_103
+  - first:
+      213: 7918540463608635530
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_104
+  - first:
+      213: -3201824902003795344
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_105
+  - first:
+      213: 555911777556167972
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_106
+  - first:
+      213: 2887607953888577102
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_107
+  - first:
+      213: 1183930655463375868
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_108
+  - first:
+      213: 158808621745923683
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_109
+  - first:
+      213: -2749637587534462075
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_110
+  - first:
+      213: -1109430537930752769
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_111
+  - first:
+      213: 6648454384196551268
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_112
+  - first:
+      213: -511385388670392362
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_113
+  - first:
+      213: 8135634717188200686
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_114
+  - first:
+      213: -5229131358125407134
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_115
+  - first:
+      213: 1893989239807651763
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_116
+  - first:
+      213: -7762926338333346354
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_117
+  - first:
+      213: -967430372790043425
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_118
+  - first:
+      213: -3048881961263541005
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_119
+  - first:
+      213: -8971453128857325635
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_120
+  - first:
+      213: -7937662238233977933
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_121
+  - first:
+      213: 1276076068968447219
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_122
+  - first:
+      213: 3655048559081975838
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_123
+  - first:
+      213: 532504173151424604
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_124
+  - first:
+      213: 1936273446577827340
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_125
+  - first:
+      213: -2144511704997238373
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_126
+  - first:
+      213: -3693633938167525283
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_127
+  - first:
+      213: -2305398862156561876
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_128
+  - first:
+      213: -5502653493894805459
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_129
+  - first:
+      213: 4437971578772569651
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_130
+  - first:
+      213: -2936264616067297672
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_131
+  - first:
+      213: 2773743941948362934
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_132
+  - first:
+      213: 3208061083578686317
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_133
+  - first:
+      213: -6052485452769268771
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_134
+  - first:
+      213: 4042549731978323505
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_135
+  - first:
+      213: 3794038981394476078
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_136
+  - first:
+      213: -747764211654506602
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_137
+  - first:
+      213: 5523879337223616015
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_138
+  - first:
+      213: -3876260127957430661
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_139
+  - first:
+      213: -5025153390135735910
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_140
+  - first:
+      213: -4001338553478882784
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_141
+  - first:
+      213: -1304252400106951350
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_142
+  - first:
+      213: -5501177001037958935
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_143
+  - first:
+      213: -6463524249723243419
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_144
+  - first:
+      213: 1284050956706512338
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_145
+  - first:
+      213: -1407640830815404411
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_146
+  - first:
+      213: 4626344351178079560
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_147
+  - first:
+      213: -4376279416560743551
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_148
+  - first:
+      213: -393695410190217583
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_149
+  - first:
+      213: -6414526388181355419
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_150
+  - first:
+      213: 7019971233980709978
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_151
+  - first:
+      213: -8604572803884323193
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_152
+  - first:
+      213: -8750070439791113677
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_153
+  - first:
+      213: -2354792561863861497
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_154
+  - first:
+      213: -9141737831029710853
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_155
+  - first:
+      213: -1452251682012621465
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_156
+  - first:
+      213: -466929473003039834
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_157
+  - first:
+      213: -6611144699283290707
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_158
+  - first:
+      213: -5955894259117738662
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_159
+  - first:
+      213: -7133876969272310611
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_160
+  - first:
+      213: -6395899180287048692
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_161
+  - first:
+      213: 5288589205690206948
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_162
+  - first:
+      213: -1187706306525077356
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_163
+  - first:
+      213: 3332459749645802387
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_164
+  - first:
+      213: 3595298387965532641
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_165
+  - first:
+      213: -4872060528762207594
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_166
+  - first:
+      213: -3422701033079088210
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_167
+  - first:
+      213: -8841068406424321
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_168
+  - first:
+      213: -8477402801723711276
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_169
+  - first:
+      213: 3481729994696912425
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_170
+  - first:
+      213: -1564904014230074758
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_171
+  - first:
+      213: -598553691817064186
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_172
+  - first:
+      213: 6722601256471535204
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_173
+  - first:
+      213: -2070914980268449085
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_174
+  - first:
+      213: -1454901782181926715
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_175
+  - first:
+      213: -2304691333432156569
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_176
+  - first:
+      213: 2094242414632809710
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_177
+  - first:
+      213: -3258735309369136451
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_178
+  - first:
+      213: 4791033077892256905
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_179
+  - first:
+      213: 4785958511849451714
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_180
+  - first:
+      213: 4517338070324441900
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_181
+  - first:
+      213: -4410208043509426714
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_182
+  - first:
+      213: 4888541297948184708
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_183
+  - first:
+      213: -4906084907659859089
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_184
+  - first:
+      213: 882399878322595778
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_185
+  - first:
+      213: -1360196998067708512
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_186
+  - first:
+      213: 5052652582062553823
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_187
+  - first:
+      213: 2722730945519711206
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_188
+  - first:
+      213: -408210697093526830
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_189
+  - first:
+      213: -995924464899351235
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_190
+  - first:
+      213: -5923952854471519062
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_191
+  - first:
+      213: -4323586867369774707
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_192
+  - first:
+      213: 8276241070726600176
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_193
+  - first:
+      213: 6844626703918557603
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_194
+  - first:
+      213: -3998967145561944207
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_195
+  - first:
+      213: 6452658817082857134
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_196
+  - first:
+      213: -6017278766469205688
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_197
+  - first:
+      213: 4771032337034268610
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_198
+  - first:
+      213: 2560218798495351359
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_199
+  - first:
+      213: 8129981612679841184
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_200
+  - first:
+      213: -2639978190232554092
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_201
+  - first:
+      213: -6676941320952630345
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_202
+  - first:
+      213: 4066373335529385770
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_203
+  - first:
+      213: 2913463715943771591
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_204
+  - first:
+      213: 1743377275017430917
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_205
+  - first:
+      213: 3135442286980599469
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_206
+  - first:
+      213: 5206263935400641891
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_207
+  - first:
+      213: 9154285471990270543
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_208
+  - first:
+      213: -5220797360269353484
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_209
+  - first:
+      213: 7230562325134865759
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_210
+  - first:
+      213: 2260031640894918224
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_211
+  - first:
+      213: 2521883431107942686
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_212
+  - first:
+      213: -5274440996473879471
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_213
+  - first:
+      213: -6060121120756300947
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_214
+  - first:
+      213: -2606160983908970420
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_215
+  - first:
+      213: 890562122694413442
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_216
+  - first:
+      213: -3439376829294769493
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_217
+  - first:
+      213: -6654538889250820097
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_218
+  - first:
+      213: 7994169270366794421
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_219
+  - first:
+      213: -1334887297724316389
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_220
+  - first:
+      213: -2101965032988838315
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_221
+  - first:
+      213: -8727406070021855389
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_222
+  - first:
+      213: -2348341723134566834
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_223
+  - first:
+      213: -8083295040982663518
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_224
+  - first:
+      213: -3818564463249369722
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_225
+  - first:
+      213: -7571712281165639043
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_226
+  - first:
+      213: 8729801381656659150
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_227
+  - first:
+      213: 9031579351128860191
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_228
+  - first:
+      213: 7099684522152820969
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_229
+  - first:
+      213: 655992218429356249
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_230
+  - first:
+      213: -8672380111766726028
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_231
+  - first:
+      213: 7382698488917003620
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_232
+  - first:
+      213: 7274011786315463845
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_233
+  - first:
+      213: 568498502513077728
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_234
+  - first:
+      213: -1437824704188055747
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_235
+  - first:
+      213: 1825771183422253030
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_236
+  - first:
+      213: 5660574389568770570
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_237
+  - first:
+      213: -3581743248774887042
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_238
+  - first:
+      213: -586871628862423757
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_239
+  - first:
+      213: 3633411187659679946
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_240
+  - first:
+      213: 7100578424667719104
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_241
+  - first:
+      213: 5705563349983260111
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_242
+  - first:
+      213: 5436251286014188765
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_243
+  - first:
+      213: 2104404183753550594
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_244
+  - first:
+      213: 1211814111081552175
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_245
+  - first:
+      213: 6649026489125819191
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_246
+  - first:
+      213: 1359785671599511145
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_247
+  - first:
+      213: -6303884480772570996
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_248
+  - first:
+      213: -8476981135260429055
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_249
+  - first:
+      213: 3448202722022488511
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_250
+  - first:
+      213: -8787610301955709467
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_251
+  - first:
+      213: -8416113484481263278
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_252
+  - first:
+      213: -1109351724873135407
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_253
+  - first:
+      213: -1450198590735318713
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_254
+  - first:
+      213: 1936851951582131252
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_255
+  - first:
+      213: -1452815925322281705
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_256
+  - first:
+      213: -26793332920117657
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_257
+  - first:
+      213: 5837708035353483049
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_258
+  - first:
+      213: -573744305653565476
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_259
+  - first:
+      213: -3636012561412954800
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_260
+  - first:
+      213: 3581524045835340528
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_261
+  - first:
+      213: -5498661368825083874
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_262
+  - first:
+      213: -6021012854259855473
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_263
+  - first:
+      213: -4531129835318492637
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_264
+  - first:
+      213: -4130893157921057846
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_265
+  - first:
+      213: -2302125215624351472
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_266
+  - first:
+      213: -4810873674360795619
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_267
+  - first:
+      213: -634572750869102368
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_268
+  - first:
+      213: 5546231563915739208
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_269
+  - first:
+      213: 8837161487497622642
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_270
+  - first:
+      213: 2447552268912123120
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_271
+  - first:
+      213: 8271764400103577565
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_272
+  - first:
+      213: 4900985575351855997
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_273
+  - first:
+      213: -9176561148184897527
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_274
+  - first:
+      213: -5607667865288516169
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_275
+  - first:
+      213: -6408299050222189775
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_276
+  - first:
+      213: -2462350537723430609
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_277
+  - first:
+      213: 2166457216215487973
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_278
+  - first:
+      213: -2508993623555956862
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_279
+  - first:
+      213: 7667571781586445093
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_280
+  - first:
+      213: 4508070726421634564
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_281
+  - first:
+      213: 7533059786464569429
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_282
+  - first:
+      213: 8062660594767170940
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_283
+  - first:
+      213: -1999197220833657331
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_284
+  - first:
+      213: 7235237773027954602
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_285
+  - first:
+      213: -5289109528074046147
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_286
+  - first:
+      213: -3068698357698223250
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_287
+  - first:
+      213: 7872669104662408436
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_288
+  - first:
+      213: -3065396363432364745
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_289
+  - first:
+      213: 8435880120659218030
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_290
+  - first:
+      213: 481610578943951725
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_291
+  - first:
+      213: -6281654825351252208
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_292
+  - first:
+      213: -8955168087590574677
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_293
+  - first:
+      213: 4706034724039487528
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_294
+  - first:
+      213: -1023884313101263951
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_295
+  - first:
+      213: 7050576402025733924
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_296
+  - first:
+      213: -7181035478168668019
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_297
+  - first:
+      213: 956020867392200570
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_298
+  - first:
+      213: -5243103619671999090
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_299
+  - first:
+      213: -8833467220557539829
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_300
+  - first:
+      213: 2629417138157151860
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_301
+  - first:
+      213: 4272392635403361613
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_302
+  - first:
+      213: -7842061931498537616
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_303
+  - first:
+      213: -7432949813812684349
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_304
+  - first:
+      213: -3815471687562724554
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_305
+  - first:
+      213: 8980533569940373428
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_306
+  - first:
+      213: -6658539408868517314
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_307
+  - first:
+      213: -6345755828968977114
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_308
+  - first:
+      213: -7417422266589664526
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_309
+  - first:
+      213: 4830586578432855880
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_310
+  - first:
+      213: 6040306941765797718
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_311
+  - first:
+      213: -290870278480487426
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_312
+  - first:
+      213: -1799886912904875652
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_313
+  - first:
+      213: -3732453290525757237
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_314
+  - first:
+      213: 3188406977481594047
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_315
+  - first:
+      213: -7815099533250846375
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_316
+  - first:
+      213: -327137454464725616
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_317
+  - first:
+      213: -4955354110604076918
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_318
+  - first:
+      213: 6233755513691227315
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_319
+  - first:
+      213: 2907120906022229362
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_320
+  - first:
+      213: 606969571127888782
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_321
+  - first:
+      213: -4258737607321633051
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_322
+  - first:
+      213: -1002090035758643541
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_323
+  - first:
+      213: 7794841989315692913
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_324
+  - first:
+      213: 3864795807702054720
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_325
+  - first:
+      213: -1802525539116554324
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_326
+  - first:
+      213: 7820407195024476602
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_327
+  - first:
+      213: -770649972496253898
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_328
+  - first:
+      213: 6171353343010218298
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_329
+  - first:
+      213: -671825963018895455
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_330
+  - first:
+      213: 5465438454730872587
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_331
+  - first:
+      213: 3227488983348088983
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_332
+  - first:
+      213: 4244325401698397424
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_333
+  - first:
+      213: 6766487023475316380
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_334
+  - first:
+      213: 1250251578079124178
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_335
+  - first:
+      213: 3244164435932036811
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_336
+  - first:
+      213: -966874712023183830
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_337
+  - first:
+      213: 5081376018967169446
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_338
+  - first:
+      213: -6469302218992502100
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_339
+  - first:
+      213: 8964961225080969157
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_340
+  - first:
+      213: 4812791387703870224
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_341
+  - first:
+      213: 7660320082540772695
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_342
+  - first:
+      213: -713635997098746698
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_343
+  - first:
+      213: 5412862524625370402
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_344
+  - first:
+      213: -2841417893411083659
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_345
+  - first:
+      213: 6514436294550894612
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_346
+  - first:
+      213: -2109360884652248040
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_347
+  - first:
+      213: -5791086454757441571
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_348
+  - first:
+      213: -7435058438657329237
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_349
+  - first:
+      213: 767380692755731112
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_350
+  - first:
+      213: 7030335115746839936
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_351
+  - first:
+      213: 3270999214765640255
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_352
+  - first:
+      213: 5520101322325227990
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_353
+  - first:
+      213: 5145711514424790927
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_354
+  - first:
+      213: -2990421886546289883
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_355
+  - first:
+      213: -4953010750528521343
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_356
+  - first:
+      213: 4125487026972533991
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_357
+  - first:
+      213: -6231634190471378658
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_358
+  - first:
+      213: -1756373499486905262
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_359
+  - first:
+      213: -4152240531608133365
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_360
+  - first:
+      213: 4770806075425538870
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_361
+  - first:
+      213: -6512367534458378227
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_362
+  - first:
+      213: 60196057289008409
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_363
+  - first:
+      213: 4146682249716093556
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_364
+  - first:
+      213: 3899987405952428013
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_365
+  - first:
+      213: 7130466539546685186
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_366
+  - first:
+      213: -4872100048142423144
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_367
+  - first:
+      213: -8265729090889373065
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_368
+  - first:
+      213: 703895492714486174
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_369
+  - first:
+      213: 2654693216997865199
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_370
+  - first:
+      213: 7445496058734013163
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_371
+  - first:
+      213: 2313222423543621108
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_372
+  - first:
+      213: -3869598638083828752
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_373
+  - first:
+      213: 4468768433085349494
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_374
+  - first:
+      213: 4908273806834252909
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_375
+  - first:
+      213: 3564959656759737503
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_376
+  - first:
+      213: 8179112137065702996
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_377
+  - first:
+      213: -3437008178969237856
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_378
+  - first:
+      213: 6348798706812329295
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_379
+  - first:
+      213: -239983531295570053
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_380
+  - first:
+      213: -208179847007196692
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_381
+  - first:
+      213: -5441011359123356696
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_382
+  - first:
+      213: 7907432037915803907
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_383
+  - first:
+      213: 2442513381980491097
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_384
+  - first:
+      213: 3257873406455795939
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_385
+  - first:
+      213: 3034157853272736753
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_386
+  - first:
+      213: 5456406509305588097
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_387
+  - first:
+      213: 377872911275806834
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_388
+  - first:
+      213: -4006673001701852377
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_389
+  - first:
+      213: 7031724902253834125
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_390
+  - first:
+      213: 6015372819324011413
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_391
+  - first:
+      213: 6586839061973063838
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_392
+  - first:
+      213: 8346670165458936712
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_393
+  - first:
+      213: -6912982499065444452
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_394
+  - first:
+      213: -7919487968846660820
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_395
+  - first:
+      213: 6327320157598200543
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_396
+  - first:
+      213: 3091913508605299324
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_397
+  - first:
+      213: -678832956968136275
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_398
+  - first:
+      213: 2607912201450521798
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_399
+  - first:
+      213: 8007615017153062724
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_400
+  - first:
+      213: -1861648392291714474
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_401
+  - first:
+      213: 6435453810222529421
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_402
+  - first:
+      213: -2502334754773859270
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_403
+  - first:
+      213: 4594579632885366665
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_404
+  - first:
+      213: 1026242033465591411
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_405
+  - first:
+      213: 2288921086155665165
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_406
+  - first:
+      213: 6251952154881197426
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_407
+  - first:
+      213: 1120570531625211754
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_408
+  - first:
+      213: -7377704004635819930
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_409
+  - first:
+      213: -7388869858858945045
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_410
+  - first:
+      213: 3529653151080064030
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_411
+  - first:
+      213: -767217427497467063
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_412
+  - first:
+      213: 2514847307209380523
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_413
+  - first:
+      213: -2596374299375144128
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_414
+  - first:
+      213: -3561835670635962741
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_415
+  - first:
+      213: -7156733496782837119
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_416
+  - first:
+      213: 5142318360212798919
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_417
+  - first:
+      213: -2271425520526115094
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_418
+  - first:
+      213: -2477189390238802739
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_419
+  - first:
+      213: 1516168025395095560
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_420
+  - first:
+      213: -4743953928908397364
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_421
+  - first:
+      213: 6275321971222146396
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_422
+  - first:
+      213: 4082002808576990010
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_423
+  - first:
+      213: -4950523225044775436
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_424
+  - first:
+      213: -4850140234395725928
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_425
+  - first:
+      213: -6538986073682892741
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_426
+  - first:
+      213: 2040080817835072157
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_427
+  - first:
+      213: -372186028999231789
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_428
+  - first:
+      213: 8563085358414375571
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_429
+  - first:
+      213: -4613506246545870172
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_430
+  - first:
+      213: 1317904842869994172
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_431
+  - first:
+      213: 2829001329238918384
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_432
+  - first:
+      213: 7314510654206008714
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_433
+  - first:
+      213: -4256893291083012359
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_434
+  - first:
+      213: 7851182991886334351
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_435
+  - first:
+      213: -6653797494594514980
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_436
+  - first:
+      213: 4620474014315037128
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_437
+  - first:
+      213: -5314866746904696080
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_438
+  - first:
+      213: -4249973365420974180
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_439
+  - first:
+      213: 8114835530880456311
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_440
+  - first:
+      213: 772801989022001086
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_441
+  - first:
+      213: -5106236845243324102
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_442
+  - first:
+      213: -8287351788428478765
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_443
+  - first:
+      213: 5673348707565504206
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_444
+  - first:
+      213: -7948216257471144342
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_445
+  - first:
+      213: -8497012379771339746
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_446
+  - first:
+      213: 5067391330339353002
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_447
+  - first:
+      213: 833666346137813575
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_448
+  - first:
+      213: -3967183589379144669
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_449
+  - first:
+      213: -409658765372592307
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_450
+  - first:
+      213: -5423145963235652468
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_451
+  - first:
+      213: -3838396717385713070
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_452
+  - first:
+      213: 4994873218152082697
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_453
+  - first:
+      213: 6310104137698386626
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_454
+  - first:
+      213: 5962401148207506077
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_455
+  - first:
+      213: -3644819259675573789
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_456
+  - first:
+      213: -3090623641867211730
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_457
+  - first:
+      213: -563264378735247341
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_458
+  - first:
+      213: -6531521983911362408
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_459
+  - first:
+      213: -7070473352613915558
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_460
+  - first:
+      213: 8952173241034882152
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_461
+  - first:
+      213: -8719173523418905841
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_462
+  - first:
+      213: -7381695098876788354
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_463
+  - first:
+      213: 2243009720915826432
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_464
+  - first:
+      213: 4252449424157613014
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_465
+  - first:
+      213: 4660359238246533496
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_466
+  - first:
+      213: -5373918869651972342
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_467
+  - first:
+      213: -2907846244393135320
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_468
+  - first:
+      213: 625833769866677511
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_469
+  - first:
+      213: -8386981325639768771
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_470
+  - first:
+      213: 6655293910987188809
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_471
+  - first:
+      213: -1413291162002044071
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_472
+  - first:
+      213: 1469405971908057836
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_473
+  - first:
+      213: 1995736548151026108
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_474
+  - first:
+      213: -1491631010670986593
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_475
+  - first:
+      213: -811681106797046053
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_476
+  - first:
+      213: -5302779378703476433
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_477
+  - first:
+      213: 9211692075048039424
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_478
+  - first:
+      213: 2942047849535029544
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_479
+  - first:
+      213: 8760834762939611408
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_480
+  - first:
+      213: 3227104112328144283
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_481
+  - first:
+      213: -3202543795715052911
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_482
+  - first:
+      213: 1658216332296427171
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_483
+  - first:
+      213: 7510250530406024942
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_484
+  - first:
+      213: -6075092949042709907
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_485
+  - first:
+      213: -147401147415505739
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_486
+  - first:
+      213: -8691369319041869660
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_487
+  - first:
+      213: 8084744784815044273
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_488
+  - first:
+      213: 2546196433304846066
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_489
+  - first:
+      213: 905989803300073092
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_490
+  - first:
+      213: 8602637977788109256
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_491
+  - first:
+      213: 5972524076723597088
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_492
+  - first:
+      213: 8450073858508936512
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_493
+  - first:
+      213: -377456219086167106
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_494
+  - first:
+      213: -4682714889478639265
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_495
+  - first:
+      213: -4770084473914246785
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_496
+  - first:
+      213: 1396454605268690727
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_497
+  - first:
+      213: -2444151420924016286
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_498
+  - first:
+      213: -2419118610002517318
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_499
+  - first:
+      213: 8183083132218366284
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_500
+  - first:
+      213: -5876155513231965770
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_501
+  - first:
+      213: -5640964738835396742
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_502
+  - first:
+      213: -2335264201605915510
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_503
+  - first:
+      213: 1600474602899803184
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_504
+  - first:
+      213: 5284891102379468525
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_505
+  - first:
+      213: 3702597079055669321
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_506
+  - first:
+      213: -715211631658938970
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_507
+  - first:
+      213: -6464581142705500322
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_508
+  - first:
+      213: 5612637740006072098
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_509
+  - first:
+      213: 377205142863965539
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_510
+  - first:
+      213: -5029101753875189636
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_511
+  - first:
+      213: 2244980827786315461
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_512
+  - first:
+      213: -5728415493236059189
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_513
+  - first:
+      213: -4613523671903298250
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_514
+  - first:
+      213: 3709112976951915051
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_515
+  - first:
+      213: -1343550486678028648
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_516
+  - first:
+      213: 5435138671535344479
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_517
+  - first:
+      213: -7589940295593049557
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_518
+  - first:
+      213: -2427419532319481270
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_519
+  - first:
+      213: 3580195501157784941
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_520
+  - first:
+      213: 4659615048780273572
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_521
+  - first:
+      213: 3475488783603785022
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_522
+  - first:
+      213: 692514369069333936
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_523
+  - first:
+      213: -898070767216782443
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_524
+  - first:
+      213: 254159142115332312
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_525
+  - first:
+      213: -4227612605748347045
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_526
+  - first:
+      213: -5186429256042275165
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_527
+  - first:
+      213: -5985906705984783534
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_528
+  - first:
+      213: 8332305147635148462
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_529
+  - first:
+      213: 6807042486356478141
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_530
+  - first:
+      213: 3933460162925296503
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_531
+  - first:
+      213: 6805705690606419644
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_532
+  - first:
+      213: 5811318135241598035
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_533
+  - first:
+      213: -1786954690988361189
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_534
+  - first:
+      213: -7707873441451616939
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_535
+  - first:
+      213: 1781775397355914043
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_536
+  - first:
+      213: 1941409251908827972
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_537
+  - first:
+      213: 5756198085035006039
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_538
+  - first:
+      213: 8576224418552373386
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_539
+  - first:
+      213: 7246854388470281098
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_540
+  - first:
+      213: 6405122477070927877
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_541
+  - first:
+      213: -9187790992296251938
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_542
+  - first:
+      213: -4055608069703094285
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_543
+  - first:
+      213: 538731259893734089
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_544
+  - first:
+      213: 233458132324153824
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_545
+  - first:
+      213: -7937681975681260031
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_546
+  - first:
+      213: -3564745483969138573
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_547
+  - first:
+      213: -2886224810231980734
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_548
+  - first:
+      213: 4784979052881093311
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_549
+  - first:
+      213: -2146633407570751745
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_550
+  - first:
+      213: -2486305632214900049
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_551
+  - first:
+      213: -1059225875893593025
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_552
+  - first:
+      213: -633813275981610671
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_553
+  - first:
+      213: -2507695021726293644
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_554
+  - first:
+      213: -1051709381926530740
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_555
+  - first:
+      213: -2424587904702909781
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_556
+  - first:
+      213: -8782617396303756623
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_557
+  - first:
+      213: 535993657814719066
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_558
+  - first:
+      213: -2976332060848554848
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_559
+  - first:
+      213: -5809165797934416389
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_560
+  - first:
+      213: -2933564683602761973
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_561
+  - first:
+      213: -8124548205901611911
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_562
+  - first:
+      213: -8007633769070937269
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_563
+  - first:
+      213: 2806104549067837118
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_564
+  - first:
+      213: 6452961971393435983
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_565
+  - first:
+      213: -9130463549890140830
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_566
+  - first:
+      213: -18259374426970059
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_567
+  - first:
+      213: -1131058458784242708
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_568
+  - first:
+      213: 47064546775006665
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_569
+  - first:
+      213: 791637823992759692
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_570
+  - first:
+      213: 3924282624582454149
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_571
+  - first:
+      213: 4174120983099954246
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_572
+  - first:
+      213: 542939201200086729
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_573
+  - first:
+      213: 1965874522393773570
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_574
+  - first:
+      213: -7934458174729062566
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_575
+  - first:
+      213: -2496919446310290139
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_576
+  - first:
+      213: 725732068438840443
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_577
+  - first:
+      213: -2381612436892416664
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_578
+  - first:
+      213: -8329139614083824371
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_579
+  - first:
+      213: -2970074278840339532
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_580
+  - first:
+      213: 4511572399811835085
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_581
+  - first:
+      213: 140596792269482270
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_582
+  - first:
+      213: 5582531662380517160
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_583
+  - first:
+      213: -5327068786318239259
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_584
+  - first:
+      213: -8771603818921288496
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_585
+  - first:
+      213: -571035722016618182
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_586
+  - first:
+      213: 3893188778069696920
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_587
+  - first:
+      213: 7399657963734684219
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_588
+  - first:
+      213: -227152479877293853
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_589
+  - first:
+      213: -1047787028593524045
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_590
+  - first:
+      213: 4806371115199910823
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_591
+  - first:
+      213: 2362813371145549205
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_592
+  - first:
+      213: 6650796053044015273
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_593
+  - first:
+      213: 7160645127201988377
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_594
+  - first:
+      213: -5218859062774698955
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_595
+  - first:
+      213: 5140240018301985097
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_596
+  - first:
+      213: -3074132278285640458
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_597
+  - first:
+      213: -3087922364859646999
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_598
+  - first:
+      213: 2785280388567867288
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_599
+  - first:
+      213: -6238622808641182791
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_600
+  - first:
+      213: -1542161257694634562
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_601
+  - first:
+      213: -7685824023533588369
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_602
+  - first:
+      213: 1791761045573652626
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_603
+  - first:
+      213: 2614111228011349333
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_604
+  - first:
+      213: -2621978476723353986
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_605
+  - first:
+      213: 3372317548011936912
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_606
+  - first:
+      213: -222009187769944225
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_607
+  - first:
+      213: 8691483053846535639
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_608
+  - first:
+      213: 992915482029761725
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_609
+  - first:
+      213: 3789678893411662451
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_610
+  - first:
+      213: -1421387908329367743
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_611
+  - first:
+      213: 6638436164491374076
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_612
+  - first:
+      213: 4498962440149629478
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_613
+  - first:
+      213: 1874889033914659878
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_614
+  - first:
+      213: -3049531729680662131
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_615
+  - first:
+      213: -3618988279666344691
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_616
+  - first:
+      213: -7232052219880597294
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_617
+  - first:
+      213: -4124596523921224485
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_618
+  - first:
+      213: 7658437807772538856
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_619
+  - first:
+      213: 2299237381599592515
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_620
+  - first:
+      213: 1096943019219252080
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_621
+  - first:
+      213: -3732045311668609727
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_622
+  - first:
+      213: -2614697640100933229
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_623
+  - first:
+      213: 5212781792729563135
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_624
+  - first:
+      213: 8903717834589930026
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_625
+  - first:
+      213: 7705487078453716491
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_626
+  - first:
+      213: -580247094138785958
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_627
+  - first:
+      213: 3083690994200006058
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_628
+  - first:
+      213: 8760326609339109225
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_629
+  - first:
+      213: 1618356187104259955
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_630
+  - first:
+      213: 1844690462446771357
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_631
+  - first:
+      213: -2513366465275328464
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_632
+  - first:
+      213: -7577555360534768082
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_633
+  - first:
+      213: 1868637241771221086
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_634
+  - first:
+      213: 8012617548040424428
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_635
+  - first:
+      213: 3816632526328177300
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_636
+  - first:
+      213: -3451116117973385192
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_637
+  - first:
+      213: 8227841413762342878
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_638
+  - first:
+      213: -1856977454655206643
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_639
+  - first:
+      213: 2600752176425850379
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_640
+  - first:
+      213: -3761185328726219250
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_641
+  - first:
+      213: 4906207692255313172
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_642
+  - first:
+      213: -7998813387260009140
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_643
+  - first:
+      213: -3194603007844574275
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_644
+  - first:
+      213: -8762120094480956966
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_645
+  - first:
+      213: 2069848249204019323
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_646
+  - first:
+      213: 8165722303871311953
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_647
+  - first:
+      213: -215258383706659470
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_648
+  - first:
+      213: 8001441437344970727
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_649
+  - first:
+      213: -7929106482077785495
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_650
+  - first:
+      213: -7560281387783652174
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_651
+  - first:
+      213: 4349649503184842649
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_652
+  - first:
+      213: -8111589431304998257
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_653
+  - first:
+      213: 230315977571525588
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_654
+  - first:
+      213: 7700972899901762477
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_655
+  - first:
+      213: -8091586289333379211
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_656
+  - first:
+      213: 4629531870279074756
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_657
+  - first:
+      213: -3265850267280875453
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_658
+  - first:
+      213: -9132395075344410152
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_659
+  - first:
+      213: -3616287685313868543
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_660
+  - first:
+      213: -175956190832679089
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_661
+  - first:
+      213: 4072755655395855689
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_662
+  - first:
+      213: 3838326320069553065
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_663
+  - first:
+      213: -1063127402468569943
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_664
+  - first:
+      213: -3193265275173498854
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_665
+  - first:
+      213: 6923486234125805140
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_666
+  - first:
+      213: -8111806733779600865
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_667
+  - first:
+      213: -747552423017254459
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_668
+  - first:
+      213: -1195574531613428586
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_669
+  - first:
+      213: -4171075892073279458
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_670
+  - first:
+      213: 8689378805972168707
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_671
+  - first:
+      213: -4091835247270367801
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_672
+  - first:
+      213: -8946524317312230620
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_673
+  - first:
+      213: 7066054136716954242
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_674
+  - first:
+      213: 6726572522338790569
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_675
+  - first:
+      213: 7331726395916159371
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_676
+  - first:
+      213: 7444578786778535996
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_677
+  - first:
+      213: -3435879608054437427
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_678
+  - first:
+      213: -1398167072590361780
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_679
+  - first:
+      213: -7134487613925629776
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_680
+  - first:
+      213: -133454706175332475
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_681
+  - first:
+      213: 8738310871063541430
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_682
+  - first:
+      213: -2146280716633949520
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_683
+  - first:
+      213: 537837647002677019
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_684
+  - first:
+      213: -1855344775350911996
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_685
+  - first:
+      213: 4590879753812928811
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_686
+  - first:
+      213: 7732093428874374898
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_687
+  - first:
+      213: -6733468447005917021
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_688
+  - first:
+      213: 4825398769106856171
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_689
+  - first:
+      213: -862208169739860212
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_690
+  - first:
+      213: 5563323593582568448
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_691
+  - first:
+      213: -7685947693704729361
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_692
+  - first:
+      213: 2064860677062662331
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_693
+  - first:
+      213: -4042570461829958984
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_694
+  - first:
+      213: -4954672895972650819
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_695
+  - first:
+      213: -5301647088499724368
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_696
+  - first:
+      213: 3359049352553885911
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_697
+  - first:
+      213: -5916779658085560578
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_698
+  - first:
+      213: -649612218032643646
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_699
+  - first:
+      213: 8726897319685256336
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_1
+  - first:
+      213: 3163364025663438574
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_2
+  - first:
+      213: 1944229388094590605
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_3
+  - first:
+      213: 3273510679054426319
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_4
+  - first:
+      213: 3500819738091378063
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_5
+  - first:
+      213: -8141161855272916858
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_6
+  - first:
+      213: 1960721688231269359
+    second: DS DSi - Kirby Mass Attack - Rainbow Bubble_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 1616
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1080d1d2866ab90800000000000000
+      internalID: -7230977608726871643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 416
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f52b00ea2c1970800000000000000
+      internalID: 8726897319685256336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 416
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3be432d686eb20800000000000000
+      internalID: 3163364025663438574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 416
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec047d35a4bfa10800000000000000
+      internalID: 1944229388094590605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 416
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0ac796e98dd6d20800000000000000
+      internalID: 3273510679054426319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 416
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85dc9fe009659030800000000000000
+      internalID: 3500819738091378063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 416
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6886f752d68c40f80800000000000000
+      internalID: -8141161855272916858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 416
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3dd62bcf1e53b10800000000000000
+      internalID: 1960721688231269359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44893d980a4cc9320800000000000000
+      internalID: 2566142081480497220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382e083f52bd0f30800000000000000
+      internalID: 4543483721118787636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d4d56e89c48520800000000000000
+      internalID: 2703507289760126028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 370
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb0460b78eec2f0800000000000000
+      internalID: -950566856245068024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 357
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78bbd6f5ec44f6d0800000000000000
+      internalID: -2957654504702756740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1213ef16e059a58e0800000000000000
+      internalID: -1703885620000181983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 358
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a61129aec00a9300800000000000000
+      internalID: 259520816128005797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 370
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c771072a0d5d60800000000000000
+      internalID: 7880466085612864214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_16
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3426bdf85caa290800000000000000
+      internalID: -7878267376479616002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 371
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7d4cc66fd95c30800000000000000
+      internalID: 4348752547810213153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 360
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625ffc1c1e3a28840800000000000000
+      internalID: 5224918707717797158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_19
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 372
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abfa43988e6ccf80800000000000000
+      internalID: -8084965698171110490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_20
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1347092ad41317400800000000000000
+      internalID: 320091258029634609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aae88640f5b0dd0800000000000000
+      internalID: -2518815094044972388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_22
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4380b9121766b0800000000000000
+      internalID: -5303250134660591876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 356
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c384acc28709962b0800000000000000
+      internalID: -5590778616581830596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2abfb30f00e6a0800000000000000
+      internalID: -6422116559854359444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60d226474008d10800000000000000
+      internalID: 2125703922028709556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf6a271f445f3950800000000000000
+      internalID: 6430951491576164290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951e94cfea0389f0800000000000000
+      internalID: -467517911404243555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d21da477753169f0800000000000000
+      internalID: -477041298349681960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c5b2be2a5301b50800000000000000
+      internalID: 6561803630925274200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7742fa0dbb6d9290800000000000000
+      internalID: -7882025313151858818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9aa5be7ef2cbf0800000000000000
+      internalID: -305402004540580943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c52285b3778a5d0800000000000000
+      internalID: -3051057650778088401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564855876d5ea5340800000000000000
+      internalID: 4853444257749763173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ebde033d4502770800000000000000
+      internalID: 8583954155803885126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723b1384dc1066260800000000000000
+      internalID: 7090356644532564775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e8f96f8659e320800000000000000
+      internalID: 2587694634859292837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d431ebb0b42722e40800000000000000
+      internalID: 5630188150811661133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21241b2407a03e20800000000000000
+      internalID: 3328343760971243819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_39
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da6f5c45d85eea0800000000000000
+      internalID: -5844109546205303494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5023873c9083d1730800000000000000
+      internalID: 3971392060995940869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_41
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c74de46aea80d0800000000000000
+      internalID: -3419663247835936857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b689d684ee3e90800000000000000
+      internalID: -7043941499334642945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1703d8e9c83fb0800000000000000
+      internalID: -4667759011959464625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e552c2146e67bf7b0800000000000000
+      internalID: -5189423414306396834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_45
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9f26ea4c59d6b0800000000000000
+      internalID: -5271080412101238902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46304c055ac647280800000000000000
+      internalID: -9046486294200056988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_47
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f6a2472f9a80a90800000000000000
+      internalID: -7347435933258846445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_48
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec66b5d96a156500800000000000000
+      internalID: 388745984696806632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_49
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fda5239a0677780800000000000000
+      internalID: -8685367076550156444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_50
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba53c9b962884030800000000000000
+      internalID: 3479174102743472820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_51
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3327e30f06d390800000000000000
+      internalID: -7794025595680899288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_52
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 251
+        width: 392
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688d13883df076c0800000000000000
+      internalID: -4147536837648480156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ebb7d6300c68b0800000000000000
+      internalID: -5157747237698411558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4a678c5f04bab50800000000000000
+      internalID: 6605444702843348136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9dd7a24bdc4a280800000000000000
+      internalID: -9032868778907674169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca65a86a81680c40800000000000000
+      internalID: 5478736193785260737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4970965861ed3dc10800000000000000
+      internalID: 2077248041456830356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbaa912813c00e80800000000000000
+      internalID: -8214351211913368590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7a2bdcc778e080800000000000000
+      internalID: -9157938120523874535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_60
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdccdf961df9b000800000000000000
+      internalID: 52351144304627149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_61
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191ec934eb406280800000000000000
+      internalID: -9052151807420262121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0af171ba33746f0800000000000000
+      internalID: -700534407112449842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860744a2a9a6d15e0800000000000000
+      internalID: -1937275054332809112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2531eb4335554ae90800000000000000
+      internalID: -7015388503680871598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcc385a21bf03b0800000000000000
+      internalID: -5544017820842668631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aadc83e539b0700800000000000000
+      internalID: 507661415898524289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_67
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ff04f7716b97f50800000000000000
+      internalID: 6879730117820612386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_68
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb04056e1a3617700800000000000000
+      internalID: 536319377638703294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_69
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672f205dfa5b11d10800000000000000
+      internalID: 2094655068501635702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_70
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f2d183f257f2c0800000000000000
+      internalID: -4397955305295383382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd59882fbb34b50800000000000000
+      internalID: 6576306531239058384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_72
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5506d8ca9958214b0800000000000000
+      internalID: -5471163702230294443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_73
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e618f5fb01720300800000000000000
+      internalID: 216860028252460775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_74
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77bdaac37133ce10800000000000000
+      internalID: 2216669814987798399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_75
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6cad21c58c10550800000000000000
+      internalID: 6125397265979459241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_76
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1e1d467bd4d4f0800000000000000
+      internalID: -804777132246033363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_77
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64466119956d23aa0800000000000000
+      internalID: -6182643658251672506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_78
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c8756d6d4f0b00800000000000000
+      internalID: 796940791317054090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_79
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e30ec92a0580a20800000000000000
+      internalID: 3028759408753524254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_80
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11e61114a253390800000000000000
+      internalID: -7839313117414813263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35e25cfa5898870800000000000000
+      internalID: 8685620346334630843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c32554bf1503e40800000000000000
+      internalID: 5634093273482148913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561fd720ca4c463e0800000000000000
+      internalID: -2061306486373617307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_84
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b72ef8426656c50800000000000000
+      internalID: 6657839931355986722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_85
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78976383344c2610800000000000000
+      internalID: 1597726955848308861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0cb349166100160800000000000000
+      internalID: 6989611230033592555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_87
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c0cbb300b93630800000000000000
+      internalID: 3907347681801978878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbfe28fe1ebe8e20800000000000000
+      internalID: 3354827812659723229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dee3a59a5339140800000000000000
+      internalID: 4725179435521600801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_90
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d9c0f86cfb92c50800000000000000
+      internalID: 6641049985058905445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_91
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e6b32bc4776c40800000000000000
+      internalID: 5505497485310093215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_92
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc021993a974fde60800000000000000
+      internalID: 7989182991694897359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_93
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4a687e8441a9780800000000000000
+      internalID: -8675599428821277468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_94
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed35b81a663c730800000000000000
+      internalID: 4018168136557911682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c2da767ad9c330800000000000000
+      internalID: 3731753968654796515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_96
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17be4ce8fff3ee0800000000000000
+      internalID: -1279022780495728148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_97
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b688a50323624e8c0800000000000000
+      internalID: -3971006974432475029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_98
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2db5dfca4b72b840800000000000000
+      internalID: 5238384877829995819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_99
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beee933cf604b1620800000000000000
+      internalID: 2745859246573350635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_100
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b49311e073c6cc0800000000000000
+      internalID: -3716535058929464417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_101
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07bb9dc3d3c9f70800000000000000
+      internalID: 9195291870743982257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_102
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499e75d5bba1d030800000000000000
+      internalID: 3517781581412342085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_103
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d44de52c844e7a0800000000000000
+      internalID: -6348869575033729782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_104
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8023f0f89e44ed60800000000000000
+      internalID: 7918540463608635530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_105
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a50133735d093d0800000000000000
+      internalID: -3201824902003795344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_106
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df0bbf0def6b700800000000000000
+      internalID: 555911777556167972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_107
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e460f168228d21820800000000000000
+      internalID: 2887607953888577102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_108
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3079d88aa2e6010800000000000000
+      internalID: 1183930655463375868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3666f6e9993343200800000000000000
+      internalID: 158808621745923683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_110
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 260
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58342fdae2357d9d0800000000000000
+      internalID: -2749637587534462075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 266
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcbaa3cdc28a90f0800000000000000
+      internalID: -1109430537930752769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_112
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 265
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4628c63990e044c50800000000000000
+      internalID: 6648454384196551268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 266
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e9fcc2b137e8f0800000000000000
+      internalID: -511385388670392362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_114
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 265
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8965cbba497e070800000000000000
+      internalID: 8135634717188200686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_115
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 266
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26444132cb46e67b0800000000000000
+      internalID: -5229131358125407134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_116
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 265
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa527cd2dc84a10800000000000000
+      internalID: 1893989239807651763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_117
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 266
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5fd1200ab844490800000000000000
+      internalID: -7762926338333346354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_118
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 261
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcfcec933ff292f0800000000000000
+      internalID: -967430372790043425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_119
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 266
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f45ac8820230b5d0800000000000000
+      internalID: -3048881961263541005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_120
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 261
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf646f79eefe7380800000000000000
+      internalID: -8971453128857325635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_121
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 266
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb1807ff32c7d190800000000000000
+      internalID: -7937662238233977933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_122
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 261
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcbd3d7c6885b110800000000000000
+      internalID: 1276076068968447219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_123
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1072e89c4759b230800000000000000
+      internalID: 3655048559081975838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_124
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509a1269b5d36700800000000000000
+      internalID: 532504173151424604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_125
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eea4bd0760fda10800000000000000
+      internalID: 1936273446577827340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_126
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e8f667f92d32e0800000000000000
+      internalID: -2144511704997238373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_127
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509231c0839dbcc0800000000000000
+      internalID: -3693633938167525283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_128
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22819b03f39100e0800000000000000
+      internalID: -2305398862156561876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_129
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2886563dc5a2a3b0800000000000000
+      internalID: -5502653493894805459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_130
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 210
+        width: 43
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eb40433a7d69d30800000000000000
+      internalID: 4437971578772569651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 209
+        width: 52
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e82c083ea4047d0800000000000000
+      internalID: -2936264616067297672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_132
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 209
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b059b55b615e7620800000000000000
+      internalID: 2773743941948362934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_133
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 204
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5678fe82558c20800000000000000
+      internalID: 3208061083578686317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_134
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe7735c80410ca0800000000000000
+      internalID: -6052485452769268771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1362b6910950a1830800000000000000
+      internalID: 4042549731978323505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_136
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ca0061a5227a430800000000000000
+      internalID: 3794038981394476078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_137
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697459c49686f95f0800000000000000
+      internalID: -747764211654506602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_138
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06755d8df2c8ac40800000000000000
+      internalID: 5523879337223616015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_139
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e461073f1c43ac0800000000000000
+      internalID: -3876260127957430661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_140
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990c17bd91134ab0800000000000000
+      internalID: -5025153390135735910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_141
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad0dd19c36878c0800000000000000
+      internalID: -4001338553478882784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_142
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dac223a5d56ede0800000000000000
+      internalID: -1304252400106951350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_143
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0759ef9a4e7a3b0800000000000000
+      internalID: -5501177001037958935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_144
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 180
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647f1aa0f2fc46a0800000000000000
+      internalID: -6463524249723243419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddfdfbba8dd1d110800000000000000
+      internalID: 1284050956706512338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_146
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e79e35f1e077ce0800000000000000
+      internalID: -1407640830815404411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_147
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dba9c0da3143040800000000000000
+      internalID: 4626344351178079560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_148
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b0b02ae055443c0800000000000000
+      internalID: -4376279416560743551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_149
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e09ed3c10598af0800000000000000
+      internalID: -393695410190217583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_150
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b41e4c360bf6a0800000000000000
+      internalID: -6414526388181355419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_151
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c71e6d4a2fb6160800000000000000
+      internalID: 7019971233980709978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_152
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eec74bf9a669880800000000000000
+      internalID: -8604572803884323193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_153
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aca9c7b41819680800000000000000
+      internalID: -8750070439791113677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_154
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b5f5624a8125fd0800000000000000
+      internalID: -2354792561863861497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_155
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff59bfa0e5022180800000000000000
+      internalID: -9141737831029710853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_156
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659c212ac098dbe0800000000000000
+      internalID: -1452251682012621465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_157
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35e724e122589f0800000000000000
+      internalID: -466929473003039834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_158
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da543806cee7044a0800000000000000
+      internalID: -6611144699283290707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_159
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55bf7d1ab9685da0800000000000000
+      internalID: -5955894259117738662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_160
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da40f2f71b06ffc90800000000000000
+      internalID: -7133876969272310611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_161
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0447cb15933d37a0800000000000000
+      internalID: -6395899180287048692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_162
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4128ccd7d46940800000000000000
+      internalID: 5288589205690206948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_163
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490e41e286b648fe0800000000000000
+      internalID: -1187706306525077356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_164
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdce57c764f3e20800000000000000
+      internalID: 3332459749645802387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_165
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9583cc5d015e130800000000000000
+      internalID: 3595298387965532641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_166
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924dea23c6f26cb0800000000000000
+      internalID: -4872060528762207594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_167
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab55fe6b8f1080d0800000000000000
+      internalID: -3422701033079088210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_168
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc333a581790eff0800000000000000
+      internalID: -8841068406424321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_169
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d06b5921173a5a80800000000000000
+      internalID: -8477402801723711276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_170
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e6bb1bbf6915030800000000000000
+      internalID: 3481729994696912425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_171
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7acb3c1718584ae0800000000000000
+      internalID: -1564904014230074758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_172
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ce3ca69281b7f0800000000000000
+      internalID: -598553691817064186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_173
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e9492993a7b4d50800000000000000
+      internalID: 6722601256471535204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_174
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c260113cc1a243e0800000000000000
+      internalID: -2070914980268449085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_175
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8a6f999862fcbe0800000000000000
+      internalID: -1454901782181926715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_176
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76edad961771400e0800000000000000
+      internalID: -2304691333432156569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_177
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4bebd516e301d10800000000000000
+      internalID: 2094242414632809710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_178
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa70c6085a6c2d0800000000000000
+      internalID: -3258735309369136451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9841aea433b2d7240800000000000000
+      internalID: 4791033077892256905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_180
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c03b80d8e32b6240800000000000000
+      internalID: 4785958511849451714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_181
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2379048a0fc0be30800000000000000
+      internalID: 4517338070324441900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_182
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5dc05962bcbc2c0800000000000000
+      internalID: -4410208043509426714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_183
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480570ee86697d340800000000000000
+      internalID: 4888541297948184708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_184
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 189
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b670125c51aebb0800000000000000
+      internalID: -4906084907659859089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_185
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 7
+        width: 191
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c72441a30aee3c00800000000000000
+      internalID: 882399878322595778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_186
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6
+        width: 192
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad1f91790c9f1de0800000000000000
+      internalID: -1360196998067708512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_187
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 5
+        width: 193
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7c47d0c0ae1640800000000000000
+      internalID: 5052652582062553823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_188
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 4
+        width: 194
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e37aaa8e5519c520800000000000000
+      internalID: 2722730945519711206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_189
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 5
+        width: 193
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac936a88eb55af0800000000000000
+      internalID: -408210697093526830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_190
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 6
+        width: 192
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d9d8ec9f3cd22f0800000000000000
+      internalID: -995924464899351235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Mass Attack - Rainbow Bubble_191
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 7
+        width: 191
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4501be344e9cda0800000000000000
+      internalID: -5923952854471519062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
