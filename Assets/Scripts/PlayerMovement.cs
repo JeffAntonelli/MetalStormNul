@@ -30,12 +30,13 @@ public class PlayerMovement : MonoBehaviour
 
     private bool top; // Pour la rotation.
 
-
+    
     private float _jumpTimeCounter;
     private const float JumpTime = 0.5f;
     private const float DeadZone = 0.1f;
     private const float MoveSpeed = 4.0f;
     private float _jumpSpeed = 5.0f;
+    
 
     void Start()
        {
@@ -63,8 +64,9 @@ public class PlayerMovement : MonoBehaviour
            
            if (Input.GetKeyDown(KeyCode.P)) // Pour la rotation 
            {                                //
-               _isSwitching = true;
-               body.gravityScale *= -1;     //
+               //_isSwitching = !_isSwitching;
+               body.gravityScale *= -1;
+               _jumpSpeed *= -1;          // On alterne le sens du jump a chaque fois qu'on joue l'input
                Rotation();
            }
        }
@@ -74,18 +76,11 @@ public class PlayerMovement : MonoBehaviour
    
            if (foot.FootContact_ > 0 && _jumpButtonDown)
            {
-               if (_isSwitching)
-               {
-                   JumpSwitch();
-               }
-               else
-               {
-                  Jump(); 
-               }
+               Jump();
            }
            _jumpButtonDown = false;
 
-           if (_jumpButton && _isJumping)
+           if (_jumpButton && _isJumping) // Jump en fonction de la durée de l'input
            {
                JumpVariation();
            }
@@ -155,7 +150,7 @@ public class PlayerMovement : MonoBehaviour
            body.velocity = new Vector2(vel.x, _jumpSpeed);
        }
 
-       private void JumpSwitch()
+       /*private void JumpSwitch()
        {
            Debug.Log("Work2");
            _isJumping = true;
@@ -163,7 +158,7 @@ public class PlayerMovement : MonoBehaviour
            _jumpSpeed = -(_jumpSpeed);
            var vel = body.velocity;
            body.velocity = new Vector2(vel.x, _jumpSpeed);
-       }
+       }*/
 
        private void JumpVariation()
        {
@@ -200,12 +195,7 @@ public class PlayerMovement : MonoBehaviour
            spriteRenderer.flipX = !spriteRenderer.flipX;
            _facingRight = !_facingRight;
        }
-
-       void FlipY()
-       {
-           spriteRenderer.flipY = !spriteRenderer.flipY;
-           
-       }
+       
 
        void Rotation()   // Pour la rotation.
        {
@@ -213,7 +203,7 @@ public class PlayerMovement : MonoBehaviour
            {
                
                transform.eulerAngles = new Vector3(0, 0, 180f);
-               spriteRenderer.flipX = !spriteRenderer.flipX;
+               spriteRenderer.flipX = !spriteRenderer.flipX; // Le sprit est dans le bon sens quand la gravité change
            }
            else
            {
