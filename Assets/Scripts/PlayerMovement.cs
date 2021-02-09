@@ -46,23 +46,23 @@ public class PlayerMovement : MonoBehaviour
    
        private void Update()
        {
-           if (Input.GetButtonDown("Jump"))
+           if (Input.GetButtonDown("Fire1"))
            {
                _jumpButtonDown = true;
            }
            
-           if (Input.GetButton("Jump"))
+           if (Input.GetButton("Fire1"))
            {
                _jumpButton = true;
            }
 
-           if (Input.GetButtonUp("Jump"))
+           if (Input.GetButtonUp("Fire1"))
            {
                _isJumping = false;
            }
            
            
-           if (Input.GetKeyDown(KeyCode.P)) // Pour la rotation 
+           if (Input.GetButtonDown("Jump")) // Pour la rotation 
            {                                //
                //_isSwitching = !_isSwitching;
                body.gravityScale *= -1;
